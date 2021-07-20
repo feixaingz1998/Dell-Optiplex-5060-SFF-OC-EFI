@@ -36,6 +36,10 @@ Virtualization Support
   #Knows Issue
   R5 430 1gb cant use on the os
   
+  # 备注
+  如果显示俄语请在oc界面选择reset nvram在重新进行安装即可
+  
+  
   # 特别感谢 
   iok （https://www.iokiok.tk/2019/01/22/dell-optiplex-5060%E5%AE%89%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%AE%B0/)
   
